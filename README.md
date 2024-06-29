@@ -14,8 +14,8 @@ Before you run this script, you need to install the necessary Python libraries. 
 
 ## Usage
 To use the Youtube Converter, follow these steps:
--Edit the Youtube Converter.ipynb file and replace your_download_path_here with the path where you want the downloaded files to be saved.
--Run the script.
+- Edit the Youtube Converter.ipynb file and replace your_download_path_here with the path where you want the downloaded files to be saved.
+- Run the script.
 
 The script will download the video from the specified URL and convert it to MP3 format, saving it to the specified directory.
 
